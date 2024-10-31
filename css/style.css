@@ -1,0 +1,10 @@
+#kv1, #kv2, #kv3{
+    width:80px;
+    height:100px;
+    float:left;
+    background:red;
+    margin:5px;
+    color:white;
+    display:none;
+}
+    
